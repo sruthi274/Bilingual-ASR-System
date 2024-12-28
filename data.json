@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "Shreyansh Jain",
+            "email": "Shreyanshjain.tsk221@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "123456",
+            "report": null,
+            "questions": null
+        },
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234",
+            "report": null,
+            "questions": null
+        },
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234",
+            "report": null,
+            "questions": null
+        },
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 20,
+            "sex": "Female",
+            "password": "123",
+            "report": null,
+            "questions": null
+        }
+    ]
+}
